@@ -4,4 +4,4 @@ It could really spare me some time if I want to practice knowledge I learned.
 
 - i decided to do it as a separate project / service / delivarable
 - i want to focus on learning new technologies and concepts
-- vertical slices / event driven architecture, docker, CI/CD, AWS, MS SQL, SQL/T-SQL, REST API, Minimal APIs, event queue, testing all layers (functional, performance, architecture)
+- vertical slices / event driven architecture, docker, CI/CD, AWS, MS SQL, SQL/T-SQL, REST API, Minimal APIs, REST API, Redis, event broker - RabbitMQ, testing all layers (functional, performance, architecture)
